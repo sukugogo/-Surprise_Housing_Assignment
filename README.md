@@ -8,7 +8,7 @@ To model the price of houses with the available independent variables. This mode
 
 The company wants to know the following things about the prospective properties:
 
--- Which variables are significant in predicting the price of a house, and
--- How well those variables describe the price of a house. 
+1) Which variables are significant in predicting the price of a house, and
+2) How well those variables describe the price of a house. 
 
 Also, determine the optimal value of lambda for ridge and lasso regression.
